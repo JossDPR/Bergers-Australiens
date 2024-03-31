@@ -1,0 +1,56 @@
+body {
+    background-color:moccasin;
+    color:rgb(1, 1, 1);
+    font-family: 'Futura';
+}
+
+h1, p, h2 {
+    text-align: center;
+}
+
+p {
+    font-style: italic;
+    padding: 25px;
+}
+
+h1 {
+    font-size: 65;
+    font-weight: bold;
+    background-color: peru;
+    border-radius: 50%;
+    margin-left: 350;
+    margin-right: 350;
+    padding-bottom: 10;
+}
+
+h2 {
+    font-weight: 100;
+    font-size: 30;
+}
+
+.dog_img {
+    border-radius: 10%;
+}
+
+.dog-description {
+    padding-left: 250px;
+    padding-right: 1000px;
+    padding-bottom: 100px;
+    margin-top: -380px;
+    
+}
+
+.list-dog {
+    padding-bottom: 60px;
+    font-size: 24;
+}
+
+#site-description {
+    font-size: 20;
+    font-stretch: expanded;
+    text-decoration: underline;
+}
+
+#color-text {
+    font-style: italic;
+}
