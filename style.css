@@ -1,5 +1,9 @@
 #home {
-    
+    margin-bottom: -350;
+}
+
+#browse {
+    margin-left: 25;
 }
 
 body {
@@ -22,6 +26,7 @@ h1 {
     font-weight: bold;
     background-color: peru;
     border-radius: 50%;
+    margin-top: -70;
     margin-left: 350;
     margin-right: 350;
     padding-bottom: 10;
